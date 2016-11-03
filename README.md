@@ -5,7 +5,8 @@
     "address": {
         "street": "main",
         "zip": 75031
-    }
+    },
+    "married": false
 }
 ---
 
